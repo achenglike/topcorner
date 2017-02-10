@@ -12,7 +12,7 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.widget.ImageView;
 
-import cn.com.open.mooc.R;
+import cn.com.xxx.xxx.R;
 
 /**
  * 只有上方是圆角的图片控件
