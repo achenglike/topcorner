@@ -11,3 +11,6 @@ a custom view extends ImageView, only get top corner.一个继承自ImageView的
   app:corner_size="2dp"
   android:layout_height="75dp" />
 ```
+
+### screenshot
+![my screenshot](https://github.com/achenglike/topcorner/raw/master/sceenshot.jpg)
